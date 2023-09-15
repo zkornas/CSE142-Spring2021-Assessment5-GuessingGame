@@ -7,3 +7,5 @@ This program allows the user to play a game in which the program thinks of a ran
 After each game ends and the number of guesses is shown, the program should ask the user if they would like to play again. If the user’s response starts with a lower- or upper-case Y (e.g. y, Y, yes, YES, Yup, yessir, yeehaw), a new game should begin. If the user gives any other response (e.g. no, No, okay, 0, certainly, hello), no new game should begin.
 
 Once the user chooses not to play again, the program should print overall statistics about all games played. Specifically, the total number of games, total guesses made in all games, average number of guesses per game (rounded to the nearest tenth), and best game (i.e. fewest guesses needed to win any one game) should be displayed. Your statistics must be correct for any number of games or guesses ≥ 1. You may assume that no game will require one million or more guesses
+
+You can read the full specification [here!](https://courses.cs.washington.edu/courses/cse142/21sp/files/assessments/a5/a5.pdf)
